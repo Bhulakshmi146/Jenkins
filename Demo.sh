@@ -1,1 +1,1 @@
-echo "Demo file with commit changes webhook"
+echo "Demo file with commit changes"
