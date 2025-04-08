@@ -1,1 +1,1 @@
-echo "Demo file with commit changes  h"
+echo "Demo file with commit changes h"
